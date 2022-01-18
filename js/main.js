@@ -1,5 +1,5 @@
 ///mukammals sonni topish
-
+// faqat consolda ishlaydi
 function perfectNum(n){
     for (let index = 0 ; index < n; index++) {
 
